@@ -78,12 +78,12 @@ Agora vamos criar um ambiente no Insomnia e adicionar os nossos dados como vari√
 
 ```json
 {
-  "appReg_clientId": {{ clientID }},
-  "appReg_clientSecret": {{ clientSecret }},
+  "appReg_clientId": {clientID },
+  "appReg_clientSecret": {clientSecret },
   "targetHost": "{{YourTenantName}}.sharepoint.com",
   "principal": "00000003-0000-0ff1-ce00-000000000000",
-  "realm": {{ realmID }},
-  "token": {{ geraremos a seguir... }}
+  "realm": {realmID},
+  "token": {geraremos a seguir...}
 }
 
 ```
