@@ -70,7 +70,7 @@ Acesse a aba Header da resposta, vá na propriedade **WWW-Authenticate** e procu
 
 ![realm](/sharepointConfig/imgs/Captura%20de%20tela%20de%202020-08-08%2018-10-37.png)
 
-Pronto! Temos todos os dados necessário para autenticação.
+Pronto! Temos todos os dados necessários para autenticação.
 
 ## Configurando o ambiente no Insomnia
 
